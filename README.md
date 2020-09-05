@@ -1,1 +1,1 @@
-Open fonts, open font design toolkit and related matters. Human. 
+Open fonts, open font design toolkit and language support. Human. 
